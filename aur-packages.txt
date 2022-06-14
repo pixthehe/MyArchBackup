@@ -1,0 +1,9 @@
+appimagelauncher
+cava
+grapejuice-git
+minecraft-launcher
+playonlinux
+realvnc-vnc-viewer
+rpi-imager
+soundux
+yay
